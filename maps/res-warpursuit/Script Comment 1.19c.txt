@@ -1,0 +1,39 @@
+========================== Script Index =========================
+ Public Functions
+ InGame Program
+ Message, Help and UserCommand
+ Game AI
+ Fundamental Functions
+ ExecuteFunc Helper
+ <Entrance>
+======================== Hashtable Usage ========================
+UnitHandleId               4200        int       Undercover Layers
+UnitHandleId               4201        int       IceWallSlow Layers
+UnitHandleId               4202        int       GhostShip Boost Layers
+UnitHandleId               4203        effect    GhostShip Boost Effect
+UnitHandleId               4204        int       'Avul' Layers
+UnitHandleId               4205        int       'A01O'('ACmi') Layers
+UnitHandleId               4206        int       Rage Stimpack Layers
+UnitHandleId               4207        timer     Teemo's Mushroom Timer
+UnitHandleId               4208        int       Teemo's Mushroom Timer Periods
+UnitHandleId          4211-4230        unit      Teemo's Mushroom Attachments
+UnitHandleId               4231        int       Being Hooked Layers
+UnitHandleId               4232        trigger   Respawn Auto Select Trigger
+UnitHandleId          4233-4240        unit      Geomancer Clones
+UnitHandleId               4241        unit      Geomancer Origin (from clone)
+UnitHandleId               4242        trigger   Geomancer die trigger
+UnitHandleId               4300        int       AI rank Region Number
+UnitHandleId               4301        timer     AI Ability cd 1
+UnitHandleId               4302        timer     AI Ability cd 2
+UnitHandleId               4303        timer     AI Ability cd 3
+UnitHandleId               4304        timer     AI Ability cd 4
+UnitHandleId               4305        timer     AI Ability cd 5
+1                             1        any       Temp Type transfer
+42                Region Serial        region    AI rank Region
+43                Region Serial        int       AI rank Region Number
+44                Region Number        real      AI rank Region Main Direction
+========================= Variable Enum =========================
+int_lightsModeId
+  0  Lights on & Map unrevealed
+  1  Lights on at night & Map revealed during the day
+=================================================================

@@ -1,0 +1,10 @@
+======================== Hashtable Usage ========================
+ItemTypeId                 1..12       boolean   Player had the kind of item once
+ItemHandleId               1           item      The relevant functional item
+UnitHandleId               4520        boolean   Is unit sliding
+UnitHandleId               4521        real      Unit slide speed
+UnitHandleId               4530        integer   Min remaining life
+UnitHandleId               4540        unit      Human Defense Vision
+UnitHandleId               4550        trigger   NightElf Defense Damage Detection
+UnitHandleId               4560        trigger   Undead Defense Damage Detection
+UnitHandleId               4580        integer   Hero Current Extra Skill Points
