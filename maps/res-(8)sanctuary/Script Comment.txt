@@ -1,0 +1,14 @@
+======================== Hashtable Usage ========================
+ItemTypeId                 1..12       boolean   Player had the kind of item once
+ItemHandleId               1           item      The relevant functional item
+UnitHandleId               4520        boolean   Is unit sliding
+UnitHandleId               4521        real      Unit slide speed
+UnitHandleId               4530        integer   Xuming remaining time pool
+UnitHandleId               4531        boolean   Xuming in countdown
+UnitHandleId               4532        integer   Xuming extended time pool
+UnitHandleId               4533        trigger   Xuming extended time damage trigger
+UnitHandleId               4534        real      Xuming manip max life delta
+UnitHandleId               4540        unit      Human Defense Vision
+UnitHandleId               4550        trigger   NightElf Defense Damage Detection
+UnitHandleId               4560        trigger   Undead Defense Damage Detection
+UnitHandleId               4580        integer   Hero Current Extra Skill Points
