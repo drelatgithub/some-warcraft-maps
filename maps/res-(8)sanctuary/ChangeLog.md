@@ -1,3 +1,15 @@
+# 2.99m
+
+- Changes
+    - Changed Night Elf fortification effect to "Power Infusion" by Shyster @Hive.
+    - Added a "Scanner Sweep" effect by Shyster @Hive to The Elder when entering the extended life (Xuming).
+
+- Fixes
+    - Fixed Airship Store not belonging to the neutral passive player.
+
+- Credits
+    - A "Goblin Rubber Duck" model is used in this version, thanks to MiniMage, Pvt.Toma and Red @Hive.
+
 # 2.99l
 
 - Remade Xuming for The Elder
