@@ -10,5 +10,6 @@ UnitHandleId               4533        trigger   Xuming extended time damage tri
 UnitHandleId               4534        real      Xuming manip max life delta
 UnitHandleId               4540        unit      Human Defense Vision
 UnitHandleId               4550        trigger   NightElf Defense Damage Detection
+UnitHandleId               4551        real      NightElf Defense stored extra damage
 UnitHandleId               4560        trigger   Undead Defense Damage Detection
 UnitHandleId               4580        integer   Hero Current Extra Skill Points

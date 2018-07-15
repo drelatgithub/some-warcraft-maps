@@ -1,3 +1,21 @@
+# 2.99n
+
+- Added a Rubber Duck Store that lives in the rivers.
+
+- New Item: Missile Vault
+    - Increases agility, attack speed and maximum mana.
+    - Has the ability of launching full salvo of missiles to strike the enemies.
+    - Model credits: "Mass Dispel Area" by stan0033 @Hive, "Rocket Rain" by ILH @Hive.
+
+- Changes
+    - Slight modification on the terrain to make the rivers connected for water transports.
+
+- Balancing
+    - The Night Elf base ult Overgrowth ground unit entangle time increased from 8s to 11s.
+    - The Night Elf base ult Overgrowth air unit ensnare time increased from 16s to 30s.
+    - Night Elf upgrade Tree Structure Stronghold (Level 1) attack speed increase increased from 110% to 120%.
+    - Night Elf upgrade Tree Essence Stronghold (Level 2) will only activate when accumulated damage on an ancient reaches 50, but the restoring potency is increased by 20%.
+
 # 2.99m
 
 - Changes
