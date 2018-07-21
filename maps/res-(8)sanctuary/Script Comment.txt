@@ -1,6 +1,7 @@
 ======================== Hashtable Usage ========================
 ItemTypeId                 1..12       boolean   Player had the kind of item once
 ItemHandleId               1           item      The relevant functional item
+UnitHandleId               1000        hashtable Specific storage for special permanent units
 UnitHandleId               4520        boolean   Is unit sliding
 UnitHandleId               4521        real      Unit slide speed
 UnitHandleId               4530        integer   Xuming remaining time pool

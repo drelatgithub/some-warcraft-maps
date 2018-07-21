@@ -1,6 +1,13 @@
 # 2.99n
 
-- Added a Rubber Duck Store that lives in the rivers.
+- Added a Rubber Duck Store that lives in the rivers
+    - Currently it sells one item: Missile
+        - Item: Missile (600G)
+            - Increase Agility by 7
+            - Increase Max Mana by 100
+            - Ability: launch a missile globally to deal small damage to a small area. (Mana cost: 50, Cooldown: 10s)
+    - Call `114514` in game to contact the store!
+    - There might be more surprise if you tip the store a lot!
 
 - New Item: Missile Vault
     - Increases agility, attack speed and maximum mana.
