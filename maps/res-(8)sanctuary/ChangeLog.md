@@ -1,6 +1,27 @@
+# 2.99o
+
+- Items
+    - Missile
+        - Launch mana cost reduced from 50 to 40.
+        - Mana pool increase increased from 100 to 130.
+    - Missile Vault
+        - Full Salvo cooldown increased from 80s to 120s.
+        - Mana pool increase increased from 180 to 260.
+
+- Balancing
+    - Relatively Fat Phoenix egg morphing time increased from 15s to 25s.
+    - Relatively Fat Phoenix base attack reduced from 42 - 70 to 42 - 60.
+    - Relatively Fat Phoenix passive AOE DPS reduced from 12 to 10.
+    - Remade Overgrowth (Night Elf base defense):
+        - Now both air and ground units will be ensnared and doomed.
+        - Doom time: 12s
+        - Ensnare time: 25s
+
+- Slight modification on Goblin Rubber Duck Store.
+
 # 2.99n
 
-- Added a Rubber Duck Store that lives in the rivers
+- Added a Goblin Rubber Duck Store that lives in the rivers
     - Currently it sells one item: Missile
         - Item: Missile (600G)
             - Increase Agility by 7

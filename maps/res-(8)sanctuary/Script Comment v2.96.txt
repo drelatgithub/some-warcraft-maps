@@ -1,3 +1,0 @@
-======================== Hashtable Usage ========================
-UnitHandleId               4000        unit      Human Defense Vision
-UnitHandleId               4001        trigger   NightElf Defense Damage Detection
