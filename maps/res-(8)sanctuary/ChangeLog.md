@@ -1,3 +1,22 @@
+# 2.99p
+
+- Balancing
+    - Relatively Fat Naga Siren's Devotion Aura: Armor boost increased from 12 to 20.
+    - Relatively Fat Naga Siren's Parasite: Cooldown reduced from 2.5s to 2s.
+    - The Elder's Xuming cooldown reduced from 120/110/100s to 100s.
+    - Human upgrade Enhanced Spotting (Level 2): Gold cost increased from 200 to 300, lumber cost increased from 150 to 250.
+    - Human upgrade Enhanced Spotting (Level 2): Sight range and attack range further increased by 200.
+    - Orc upgrade Rupture focus (Level 2): Gold cost increased from 200 to 300, lumber cost increased from 150 to 250.
+    - True Art (Orc base defense): Slow duration increased from 0.5s to 0.8s.
+    - Night Elf upgrade Tree Essence Stronghold (Level 2): Gold cost increased from 200 to 300, lumber cost increased from 150 to 250.
+    - Night Elf upgrade Tree Essence Stronghold (Level 2): Increased restore potency increased from 20% to 40%.
+    - Undead upgrade Chaotic Rift (Level 2): Gold cost increased from 200 to 300, lumber cost increased from 150 to 250.
+    - Undead upgrade Chaotic Rift (Level 2): Mini Frost Wyrm base movement speed reduced from 420 to 400, and base HP reduced from 350 to 250.
+
+- Miscellaneous
+    - Slight display improvement for Goblin Rubber Duck Store.
+    - True Art (Orc base defense) is refactored.
+
 # 2.99o
 
 - Items
