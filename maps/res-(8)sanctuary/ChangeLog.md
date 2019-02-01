@@ -1,3 +1,22 @@
+# 2.99q
+
+- Balancing
+    - Human upgrade Improved Spotting (Level 1): Sight range bonus reduced from 800 to 700. Attack speed bonus increased from 20% to 25%. Now the Magic Sentry ability range will match this upgrade.
+    - Human upgrade Enhanced Spotting (Level 2): Attack range bonus increased from 900 to 1000. Attack speed bonus increased from 40% to 50%. Now the Magic Sentry ability range will match this upgrade.
+    - Night Elf upgrade Tree Essence Stronghold (Level 2): Increased restore potency decreased from 40% to 30%.
+    - Mountain King's Devotion Aura: Level 4 armor boost increased from 6 to 6.5.
+    - Tauren Chieftain's War Stomp: Level 4 damage increased from 100 to 120.
+    - Lich's Death And Decay: Cooldown increased from 150/120/90s to 150/130/110s, mana cost increased from 250 to 250/275/300.
+    - Keeper of the Grove's Tranquility: Level 2 healing amount increased from 55 to 65.
+    - Relatively Fat Immolation Panzer's Inferno Blast: Projectile speed increased from 360 to 400.
+    - Item Missile: Launch Missile cooldown reduced from 10s to 5s, mana cost reduced from 40 to 30.
+    - Item Missile Vault: Launch Missile cooldown reduced from 120s to 110s.
+
+- Goblin Rubber Duck Store
+    - Now there are 2 rubber duck stores in the field.
+    - Movement speed of the store increased from 460 to 470, and the stores will change their destinations more frequently.
+    - Remade call handling processes. Now the stores may answer to calls simultaneously from multiple players.
+
 # 2.99p
 
 - Balancing
