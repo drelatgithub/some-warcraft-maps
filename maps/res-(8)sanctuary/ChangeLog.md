@@ -1,3 +1,47 @@
+# 3.0.0
+
+From now on this map will be using sematic versioning!
+
+- Balancing
+    - Glyph of Fortification: Duration increased from 8s to 9s.
+    - Human upgrade Improved Spotting: Attack range bonus increased from 700/1000 to 1000/1400.
+    - Human base defense Guardian Spirit: Cooldown reduced from 95s to 80s.
+    - Orc base defense True Art: Cooldown reduced from 100s to 80s.
+    - Undead base defense Soul Release: Cooldown reduced from 95s to 80s.
+    - Night Elf base defense Overgrowth: Cooldown reduced from 85s to 80s.
+    - Relatively Fat Naga Siren: Initial Agi inceased from 25 to 30. Str increase per level increased from 1.8 to 2.0.
+    - Immolation Panzer: Base HP reduced from 1250 to 1100.
+    - Relatively Fat Immolation Panzer: Initial strength reduced from 100 to 80.
+    - Relatively Fat Immolation Panzer's Inferno Blast: Blast damage reduced from 200 to 180.
+    - Alchemist's Healing Spary: Level 4 healing per wave reduced from 85 to 75.
+    - Beastmaster's Stampede
+        - Beasts per second reduced from 2/5/8 to 2/4/6.
+        - Damage per beast reduced from 60/85/110 to 60/80/100.
+        - Cooldown increased from 180/150/120s to 180/160/140s.
+    - The Elder's Weixiao Work: Attribute bonus per unit kill increased from 0.025/0.05/0.075/0.1 to 0.05/0.1/0.15/0.2. The hero kill multiplier reduced from 10 to 5. [ *Note:* The hero kill attribute bonus is still 0.25/0.5/0.75/1 *--end note* ]
+
+- Chaotic troops
+    - Relatively Fat Naga Siren now drops Glyph of Enhanced Fortification on death.
+        - Item Glyph of Enhanced Fortification: Gives your team 5s boost on fortification duration on picking up.
+    - Immolation Panzer now has a chance to drop Panzer Parts on death.
+        - Item Panzer Parts: Increases 8 strength and 14 attack damage for the carrier.
+    - New troops on wave 5: Hero Relatively Fat Shadow Fiend accompanied by Shadow Fiends. Killing the hero grants the heroes of the killing player with 2 skill points (or 700G and 700L for the player for each skill point not applicable). The Relatively Fat Shadow Fiend will drop Glyph of Invisibility on death.
+        - Relatively Fat Shadow Fiend: Permanently invisible hero, has slow poison ability.
+        - Shadow Fiend: Permanently invisible creature.
+        - Item Glyph of Invisibility: Acquiring the item will enable the player to use Glyph of Invisibility via `-i` command, which makes all non-working buildings of the player becoming invisible for a period of time.
+
+- AI
+    - Now AI players will be able to cast Fortification, Defense Frenzy and Glyph of Invisibility on their structures in certain conditions.
+    - Slight adjustment of AI base defense decision.
+
+- Bug fixes
+    - Fixed Goblin Rubber Duck Store not reacting to item selling/pawning events.
+    - Fixed Defense Frenzy creating a peasant at the center of the map.
+    - Fixed Fortification and Defense Frenzy ready information not correctly displayed.
+
+- Miscellaneous
+    - Slight improvement of Goblin Rubber Duck Store menu display.
+
 # 2.99q
 
 - Balancing
