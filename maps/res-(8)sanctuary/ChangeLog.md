@@ -1,6 +1,6 @@
 # 3.0.0
 
-From now on this map will be using sematic versioning!
+From now on this map will be using semantic versioning!
 
 - Balancing
     - Glyph of Fortification: Duration increased from 8s to 9s.
